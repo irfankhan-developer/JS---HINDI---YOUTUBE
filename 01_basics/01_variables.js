@@ -4,10 +4,11 @@ var accountcity  = "Bengaluru"
 accountPassword = 2623
 // accountId = 102 
 console.log(accountId);
+let hai;
 /*
 we will not use var keyword because issue in block scope or function scope
 */
 accountEmail="patankhan@gmail.com"
 accountcity="chennai"
 accountPassword="834080"
-console.table([accountId,accountEmail,accountcity,accountPassword])
+console.table([accountId,accountEmail,accountcity,accountPassword,hai])
